@@ -1,7 +1,7 @@
 # Facebook-Page-Post-Image-Text-
 Facebook Page Post (Image + Text)
 
-# fp_api.py
+# fp_page_api.py
 ## How to use this program ?
 
 1. fill your access token details 
