@@ -3,7 +3,7 @@ This tool can be used to post (Image + Text) directly to the page you manage.
 
 
 ### How to use this program ?
-### fp_config.ini 
+### 1. fp_config.ini 
 1. fill your access token using this tool [Facebook developer](https://developers.facebook.com/tools/explorer/). Never forget to tick the page manage permissions.
 2. image file path
 3. text you want to put on your page
@@ -39,7 +39,7 @@ image_file = media/farmers.jpeg
 
 ```
 
-### fp_publish.py
+### 2. fp_publish.py
 
 Just run this program - nothing to configure inside
 
