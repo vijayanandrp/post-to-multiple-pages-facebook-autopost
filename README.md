@@ -6,7 +6,7 @@ This tool can be used to post (Image + Text) directly to the page you manage.
 ### 1. fp_config.ini 
 1. fill your access token using this tool [Facebook developer](https://developers.facebook.com/tools/explorer/). Never forget to tick the page manage permissions.
 
-![Example](fb_api.png =100x20)
+![Example](fb_api.png){ width=50% }
 
 2. image file path
 3. text you want to put on your page
