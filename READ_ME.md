@@ -4,7 +4,7 @@ This tool can be used to post (Image + Text) directly to the page you manage.
 
 ### How to use this program ?
 ### fp_config.ini 
-1. fill your access token details (https://developers.facebook.com/tools/explorer/)[https://developers.facebook.com/tools/explorer/]
+1. fill your access token details (Facebook developer)[https://developers.facebook.com/tools/explorer/]
 2. image file path
 3. text you want to put on your page
 4. Page ID
